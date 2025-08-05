@@ -30,9 +30,7 @@ This is a basic calculator capable of performing:
 
 
 
-It supports floating-point numbers.  
+It supports floating-point numbers.
 
 Further improvements may include redo functionality and more complex operations.
-
-
 
