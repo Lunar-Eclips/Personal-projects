@@ -4,7 +4,35 @@ Personal passion project of mine showcasing my growth as a Computer Science stud
 
 
 
-\### \[Calculator](Codes/Calculator.java.java)
+\# Calculator
 
-this is a very basic calculator capable of basic arithmetic functions such as Addition, subtraction, multiplication and division. Capable of calculating floats. Further progress may include being able to redo inputted numbers and more complex functions.
+
+
+Personal passion project of mine showcasing my growth as a Computer Science student.
+
+
+
+\### 🔗 \[Calculator](Codes/Calculator.java)
+
+
+
+This is a basic calculator capable of performing:
+
+
+
+\- Addition
+
+\- Subtraction
+
+\- Multiplication
+
+\- Division
+
+
+
+It supports floating-point numbers.  
+
+Further improvements may include redo functionality and more complex operations.
+
+
 
