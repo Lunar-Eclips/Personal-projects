@@ -12,7 +12,7 @@ Personal passion project of mine showcasing my growth as a Computer Science stud
 
 
 
-\### 🔗 \[Calculator](Codes/Calculator.java)
+\### 🔗 \[Calculator](./Codes/Calculator.java)
 
 
 
