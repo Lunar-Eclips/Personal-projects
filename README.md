@@ -1,6 +1,6 @@
 # Personal-projects
 
-Personal passion project of mine showcasing my growth as a Computer Science student.
+
 
 
 
@@ -12,7 +12,7 @@ Personal passion project of mine showcasing my growth as a Computer Science stud
 
 
 
-\### 🔗 \[Calculator](./Codes/Calculator.java)
+\### 🔗 <a href="Codes/Calculator.java">Calculator</a>
 
 
 
